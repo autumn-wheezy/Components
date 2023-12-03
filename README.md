@@ -1,1 +1,1 @@
-# Components
+JavaScript with Components Hello, Vue!
